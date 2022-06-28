@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Grégory Clain !</h1>
+<h1 align="center">Hi 👋, I'm Grégory !</h1>
 <h3 align="center">A simple Full Stack Developer who just keep learning </h3>
 
 <!--
